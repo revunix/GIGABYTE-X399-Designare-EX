@@ -1,6 +1,4 @@
-# GIGABYTE-X399-Designare-EX
-
-
+Hardware used:
 - __Mainboard:__ Gigabyte X399 DESIGNARE EX
 - __Prozessor:__ AMD Ryzen Threadripper 1950X
 - __Grafikkarte:__ ASRock > Phantom Gaming X Radeon VII 16G
