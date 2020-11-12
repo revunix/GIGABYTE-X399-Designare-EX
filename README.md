@@ -20,6 +20,7 @@ Items | Last Version | Comments
 [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.4 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
 [SmallTree-I211-AT](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases) | 1.3.0 |
+[SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor/releases) | 0.6.5 |
 
 
 ## Important! Important! Important!
