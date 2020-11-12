@@ -9,6 +9,8 @@ RAM | G.Skill Trident Z 3000 64 GB
 macOS | 10.15.7 (19H15)
 OpenCore | v0.6.3 (stable)
 
+
+## Kexts
 Items | Last Version | Comments
 ------------ | ------------- | -------------
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.6.3 |
@@ -18,6 +20,7 @@ Items | Last Version | Comments
 [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases) | 1.4.4 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
 [SmallTree-I211-AT](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases) | 1.3.0 |
+
 
 ## Important! Important! Important!
 
