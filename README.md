@@ -1,7 +1,7 @@
 ## Hardware
 Components | Recommended SKU
 ------------ | -------------
-**CPU** | AMD Ryzen | Threadripper 1950X
+**CPU** | AMD Ryzen Threadripper 1950X
 **Motherboard** | Gigabyte X399 DESIGNARE EX
 **WiFi Adapter** | Intel Wireless 8265 / 8275
 **Graphics Card** | ASRock Phantom Gaming X Radeon VII 16G
