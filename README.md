@@ -21,6 +21,8 @@ Items | Last Version | Comments
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | 1.0.4 |
 [SmallTree-I211-AT](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases) | 1.3.0 |
 [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor/releases) | 0.6.5 |
+[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) | 1.1.2 |
+[AirportItlwm](https://github.com/OpenIntelWireless/itlwm/releases) | 1.0 | Needs [AirportItlwm](https://github.com/OpenIntelWireless/HeliPort/releases)
 
 
 ## Important! Important! Important!
