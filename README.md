@@ -1,0 +1,1 @@
+# GIGABYTE-X399-Designare-EX
