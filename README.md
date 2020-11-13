@@ -6,7 +6,7 @@ Components | Recommended SKU
 **WiFi Adapter** | Intel Wireless 8265 / 8275
 **Graphics Card** | ASRock Phantom Gaming X Radeon VII 16G
 RAM | G.Skill Trident Z 3000 64 GB
-macOS | 10.15.7 (19H15)
+macOS | 11.0.1 (20B29)
 OpenCore | v0.6.3 (stable)
 
 
