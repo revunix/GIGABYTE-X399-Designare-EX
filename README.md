@@ -1,3 +1,5 @@
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+
 ## Hardware
 Components | Recommended SKU
 ------------ | -------------
